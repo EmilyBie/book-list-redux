@@ -1,5 +1,5 @@
 # Book-List-Redux
-This is a book store built by redux
+This is a book store built by react and redux
 
 ### Getting Started
 
